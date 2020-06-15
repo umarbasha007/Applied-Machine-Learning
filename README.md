@@ -10,4 +10,6 @@ Will learn : How to choose between different ML algorithms along with various hy
   - RF - Random Forest model (output is generated in *models* folder)
   - Gredient Boosting Model (output is generated in *models* folder)
   - Final model selection and evaluation
-3. Now can you the best machine learning model as per *Final model selection and evaluation* result 
+3. Now you can select the best machine learning model as per *Final model selection and evaluation* result 
+
+Note: we have exported the best estimated hyperparameter model as pickle to reuse them.
